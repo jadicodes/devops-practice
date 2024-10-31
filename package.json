@@ -1,0 +1,14 @@
+{
+  "name": "devops-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jadi Miller",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
